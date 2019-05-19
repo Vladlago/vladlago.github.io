@@ -1,0 +1,140 @@
+Uri: https://cardvr.xyz/?utm_source=google&utm_medium=cpc&utm_campaign=1358316422&utm_term=регистратор купить&utm_content=264696598946&utm_position=1t4&utm_matchtype=e&utm_placement=&utm_network=g&gclid=EAIaIQobChMI6-CUr9Sk4gIVRtiyCh1yVARgEAAYBCAAEgIqcvD_BwE
+File Name: c:\Downloaded Web Sites\cardvr.xyz\index.htm
+Content Type: text/html
+
+Uri: https://cardvr.xyz/images/favicon.ico
+File Name: c:\Downloaded Web Sites\cardvr.xyz\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cardvr.xyz/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\cardvr.xyz\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cardvr.xyz/css/style.css
+File Name: c:\Downloaded Web Sites\cardvr.xyz\css\style.css
+Content Type: text/css
+
+Uri: https://cardvr.xyz/css/animate.min.css
+File Name: c:\Downloaded Web Sites\cardvr.xyz\css\animate.min.css
+Content Type: text/css
+
+Uri: https://cardvr.xyz/img/91.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\91.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/img/51.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\51.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/img/7.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\7.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/index.html
+File Name: c:\Downloaded Web Sites\cardvr.xyz\index.html
+Content Type: text/html
+
+Uri: https://cardvr.xyz/img/113.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\113.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/js/jquery.form.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\jquery.form.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/js/sourcebuster.min.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\sourcebuster.min.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/img/logo-black-head.png
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\logo-black-head.png
+Content Type: image/png
+
+Uri: https://cardvr.xyz/img/logo.png
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\logo.png
+Content Type: image/png
+
+Uri: https://cardvr.xyz/img/m2.png
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\m2.png
+Content Type: image/png
+
+Uri: https://cardvr.xyz/img/11.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\11.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/images/clients-pic/2.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\images\clients-pic\2.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/images/clients-pic/3.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\images\clients-pic\3.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/img/4.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/images/clients-pic/5.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\images\clients-pic\5.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/img/12.jpg
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\12.jpg
+Content Type: image/jpeg
+
+Uri: https://cardvr.xyz/img/logo-black.png
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\logo-black.png
+Content Type: image/png
+
+Uri: https://cardvr.xyz/images/prod-img.png
+File Name: c:\Downloaded Web Sites\cardvr.xyz\images\prod-img.png
+Content Type: image/png
+
+Uri: https://cardvr.xyz/js/lightbox.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\lightbox.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/js/wow.min.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/js/matchMedia.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\matchMedia.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/js/jquery.fitvids.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/js/custom.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\custom.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/js/buyer.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\buyer.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/js/buyer-script.js
+File Name: c:\Downloaded Web Sites\cardvr.xyz\js\buyer-script.js
+Content Type: application/javascript
+
+Uri: https://cardvr.xyz/img/bg_count.png
+File Name: c:\Downloaded Web Sites\cardvr.xyz\img\bg_count.png
+Content Type: image/png
+
+Uri: https://cardvr.xyz/fonts/ElegantIcons.eot?
+File Name: c:\Downloaded Web Sites\cardvr.xyz\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cardvr.xyz/fonts/ElegantIcons.ttf
+File Name: c:\Downloaded Web Sites\cardvr.xyz\fonts\ElegantIcons.bin
+Content Type: application/octet-stream
+
+Uri: https://cardvr.xyz/fonts/ElegantIcons.woff
+File Name: c:\Downloaded Web Sites\cardvr.xyz\fonts\ElegantIcons.woff
+Content Type: application/font-woff
+
