@@ -8,7 +8,7 @@ $(document).ready(function() {
 			url: "mail.php", //Change
 			data: th.serialize()
 		}).done(function() {
-			alert("Спасибо за заказ, с вами в скоро времени свяжуться!");
+			alert("Спасибо за заказ, с вами в скором времени свяжуться!");
 			setTimeout(function() {
 				// Done Functions
 				th.trigger("reset");
