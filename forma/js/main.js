@@ -32,7 +32,7 @@ $(document).mouseup(function (e) { // по клику вне попапа
 
 // Маска ввода номера телефона (плагин maskedinput)
 $(function($){
-	$('[name="phone"]').mask("+7(999) 999-9999");
+	$('[name="phone"]').mask("+380(999) 999-9999");
 });
 
 
